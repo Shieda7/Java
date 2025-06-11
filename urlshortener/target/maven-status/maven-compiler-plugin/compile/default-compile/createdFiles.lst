@@ -1,0 +1,6 @@
+shieda\project\urlshortener\controller\dto\ShortenUrlResponse.class
+shieda\project\urlshortener\controller\UrlController.class
+shieda\project\urlshortener\entities\UrlEntity.class
+shieda\project\urlshortener\controller\dto\ShortenUrlRequest.class
+shieda\project\urlshortener\repository\UrlRepository.class
+shieda\project\urlshortener\UrlshortenerApplication.class
